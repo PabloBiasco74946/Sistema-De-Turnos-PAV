@@ -1,0 +1,373 @@
+C:\Users\pabli\Desktop\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\pabli\Desktop\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\pabli\Desktop\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\pabli\Desktop\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ABM.altaProfesional.resources
+C:\Users\pabli\Desktop\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.login.resources
+C:\Users\pabli\Desktop\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.principal.resources
+C:\Users\pabli\Desktop\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\pabli\Desktop\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\sistemaDeTurnos.csproj.GenerateResource.cache
+C:\Users\pabli\Desktop\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\sistemaDeTurnos.csproj.CoreCompileInputs.cache
+C:\Users\pabli\Desktop\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\pabli\Desktop\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\pabli\Desktop\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\sistemaDeTurnos.csprojAssemblyReference.cache
+C:\Users\pabli\Desktop\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ABM.AbmPaciente.resources
+C:\Users\pabli\Desktop\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ABM.AltaUsuario.resources
+C:\Users\pabli\Desktop\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ABM.modificarUsuario.resources
+C:\Users\pabli\Desktop\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ABM.bajaUsuarios.resources
+C:\Users\pabli\Desktop\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ABM.AbmObraSocial.resources
+C:\Users\pabli\Desktop\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ABM.AbmEspecialidad.resources
+C:\Users\pabli\Desktop\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ABM.AbmArancel.resources
+C:\Users\pabli\Desktop\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ABM.AbmClinica.resources
+C:\Users\pabli\Desktop\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ABM.ProcesoTurnoXPaciente.resources
+C:\Users\pabli\Desktop\daysgone\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\pabli\Desktop\daysgone\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\pabli\Desktop\daysgone\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\pabli\Desktop\daysgone\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\sistemaDeTurnos.csprojAssemblyReference.cache
+C:\Users\pabli\Desktop\daysgone\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ABM.AbmArancel.resources
+C:\Users\pabli\Desktop\daysgone\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ABM.AbmClinica.resources
+C:\Users\pabli\Desktop\daysgone\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ABM.AbmEspecialidad.resources
+C:\Users\pabli\Desktop\daysgone\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ABM.AbmObraSocial.resources
+C:\Users\pabli\Desktop\daysgone\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ABM.AbmPaciente.resources
+C:\Users\pabli\Desktop\daysgone\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ABM.altaProfesional.resources
+C:\Users\pabli\Desktop\daysgone\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ABM.altaUsuario.resources
+C:\Users\pabli\Desktop\daysgone\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ABM.bajaUsuarios.resources
+C:\Users\pabli\Desktop\daysgone\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ABM.modificarUsuario.resources
+C:\Users\pabli\Desktop\daysgone\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ABM.ProcesoTurnoXPaciente.resources
+C:\Users\pabli\Desktop\daysgone\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.login.resources
+C:\Users\pabli\Desktop\daysgone\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.principal.resources
+C:\Users\pabli\Desktop\daysgone\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\pabli\Desktop\daysgone\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\sistemaDeTurnos.csproj.GenerateResource.cache
+C:\Users\pabli\Desktop\daysgone\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\sistemaDeTurnos.csproj.CoreCompileInputs.cache
+C:\Users\pabli\Desktop\daysgone\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\pabli\Desktop\daysgone\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\sistemaDeTurnos.csprojAssemblyReference.cache
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ABM.AbmArancel.resources
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ABM.AbmClinica.resources
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ABM.AbmEspecialidad.resources
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ABM.AbmObraSocial.resources
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ABM.AbmPaciente.resources
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ABM.altaProfesional.resources
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ABM.altaUsuario.resources
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ABM.bajaUsuarios.resources
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ABM.modificarUsuario.resources
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ABM.ProcesoTurnoXPaciente.resources
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.login.resources
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.principal.resources
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\sistemaDeTurnos.csproj.GenerateResource.cache
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\sistemaDeTurnos.csproj.CoreCompileInputs.cache
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\EnvDTE.dll
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\stdole.dll
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\Microsoft.MSXML.dll
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\sistemaDeTurnos.csproj.CopyComplete
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportViewer.ReportViewerProfesionalesTurno.resources
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\RdlCompile.cache
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\RdlCompile.compiled
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportViewer.TurnoPacienteXEspecialidad.resources
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportViewer.ReportViewerTurnosPorFechas.resources
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportViewer.ReportViewerTurnosObraSocial.resources
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportViewer.ReportViewerProfesionalesXPacientes.resources
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportViewer.ReportViewerPacientesXProfesionales.resources
+C:\Users\pabli\Desktop\Procesos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportViewer.ReportViewerPrecios.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\EnvDTE.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\stdole.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\Microsoft.MSXML.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\sistemaDeTurnos.csprojAssemblyReference.cache
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ABM.AbmArancel.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ABM.AbmClinica.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ABM.AbmEspecialidad.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ABM.AbmObraSocial.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ABM.AbmPaciente.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ABM.altaProfesional.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ABM.altaUsuario.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ABM.bajaUsuarios.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ABM.modificarUsuario.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ABM.ProcesoTurnoXPaciente.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.login.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.principal.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportViewer.ReportViewerPacientesXProfesionales.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportViewer.ReportViewerPrecios.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportViewer.ReportViewerProfesionalesTurno.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportViewer.ReportViewerProfesionalesXPacientes.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportViewer.ReportViewerTurnosPorFechas.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportViewer.ReportViewerTurnosObraSocial.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportViewer.TurnoPacienteXEspecialidad.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\sistemaDeTurnos.csproj.GenerateResource.cache
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\RdlCompile.cache
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\RdlCompile.compiled
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\sistemaDeTurnos.csproj.CoreCompileInputs.cache
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\sistemaDeTurnos.csproj.CopyComplete
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportViewer.reportestadistica.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportViewer.ReportPrecioXOSS.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportViewer.ReporteProfesionalesXPrecio.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportViewer.ReporteTurnosEnFechas.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportViewer.ReporteEspecialidades.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\bin\Debug\EnvDTE.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\bin\Debug\stdole.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\bin\Debug\Microsoft.MSXML.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\obj\Debug\sistemaDeTurnos.csprojAssemblyReference.cache
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ABM.AbmArancel.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ABM.AbmClinica.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ABM.AbmEspecialidad.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ABM.AbmObraSocial.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ABM.AbmPaciente.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ABM.altaProfesional.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ABM.altaUsuario.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ABM.bajaUsuarios.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ABM.modificarUsuario.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ABM.ProcesoTurnoXPaciente.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.login.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.principal.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportViewer.ReporteEspecialidades.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportViewer.ReporteProfesionalesXPrecio.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportViewer.reportestadistica.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportViewer.ReporteTurnosEnFechas.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportViewer.ReportPrecioXOSS.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportViewer.ReportViewerPacientesXProfesionales.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportViewer.ReportViewerPrecios.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportViewer.ReportViewerProfesionalesTurno.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportViewer.ReportViewerProfesionalesXPacientes.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportViewer.ReportViewerTurnosPorFechas.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportViewer.ReportViewerTurnosObraSocial.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportViewer.TurnoPacienteXEspecialidad.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\obj\Debug\sistemaDeTurnos.csproj.GenerateResource.cache
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\obj\Debug\RdlCompile.cache
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\obj\Debug\RdlCompile.compiled
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\obj\Debug\sistemaDeTurnos.csproj.CoreCompileInputs.cache
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\obj\Debug\sistemaDeTurnos.csproj.CopyComplete
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\Sistema de turnos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\Sistema de turnos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\Sistema de turnos\WindowsFormsApp1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\Sistema de turnos\WindowsFormsApp1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\Sistema de turnos\WindowsFormsApp1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\Sistema de turnos\WindowsFormsApp1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\Sistema de turnos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\Sistema de turnos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\Sistema de turnos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\Sistema de turnos\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\Sistema de turnos\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\Sistema de turnos\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\Sistema de turnos\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\Sistema de turnos\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\Sistema de turnos\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\Sistema de turnos\WindowsFormsApp1\bin\Debug\EnvDTE.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\Sistema de turnos\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\Sistema de turnos\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\Sistema de turnos\WindowsFormsApp1\bin\Debug\stdole.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\Sistema de turnos\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\Sistema de turnos\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\Sistema de turnos\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\Sistema de turnos\WindowsFormsApp1\bin\Debug\Microsoft.MSXML.dll
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\Sistema de turnos\WindowsFormsApp1\obj\Debug\sistemaDeTurnos.csprojAssemblyReference.cache
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\Sistema de turnos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ABM.AbmArancel.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\Sistema de turnos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ABM.AbmClinica.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\Sistema de turnos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ABM.AbmEspecialidad.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\Sistema de turnos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ABM.AbmObraSocial.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\Sistema de turnos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ABM.AbmPaciente.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\Sistema de turnos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ABM.altaProfesional.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\Sistema de turnos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ABM.altaUsuario.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\Sistema de turnos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ABM.bajaUsuarios.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\Sistema de turnos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ABM.modificarUsuario.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\Sistema de turnos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ABM.ProcesoTurnoXPaciente.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\Sistema de turnos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.login.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\Sistema de turnos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.principal.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\Sistema de turnos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\Sistema de turnos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportViewer.ReporteEspecialidades.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\Sistema de turnos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportViewer.ReporteProfesionalesXPrecio.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\Sistema de turnos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportViewer.reportestadistica.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\Sistema de turnos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportViewer.ReporteTurnosEnFechas.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\Sistema de turnos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportViewer.ReportPrecioXOSS.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\Sistema de turnos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportViewer.ReportViewerPacientesXProfesionales.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\Sistema de turnos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportViewer.ReportViewerPrecios.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\Sistema de turnos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportViewer.ReportViewerProfesionalesTurno.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\Sistema de turnos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportViewer.ReportViewerProfesionalesXPacientes.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\Sistema de turnos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportViewer.ReportViewerTurnosPorFechas.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\Sistema de turnos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportViewer.ReportViewerTurnosObraSocial.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\Sistema de turnos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReportViewer.TurnoPacienteXEspecialidad.resources
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\Sistema de turnos\WindowsFormsApp1\obj\Debug\sistemaDeTurnos.csproj.GenerateResource.cache
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\Sistema de turnos\WindowsFormsApp1\obj\Debug\RdlCompile.cache
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\Sistema de turnos\WindowsFormsApp1\obj\Debug\RdlCompile.compiled
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\Sistema de turnos\WindowsFormsApp1\obj\Debug\sistemaDeTurnos.csproj.CoreCompileInputs.cache
+C:\Users\pabli\Desktop\Sistemas de turnos - TP PAV 1 - 3K7 - Grupo 14\Sistema de turnos TP\Sistema de turnos\Sistema de turnos\WindowsFormsApp1\obj\Debug\sistemaDeTurnos.csproj.CopyComplete

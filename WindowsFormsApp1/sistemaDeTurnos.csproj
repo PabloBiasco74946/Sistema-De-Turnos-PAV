@@ -1,0 +1,513 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BE5E3357-E314-4D62-B6A8-413A60E9A206}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WindowsFormsApp1</RootNamespace>
+    <AssemblyName>WindowsFormsApp1</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1449.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1449.0\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1449.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1449.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ABM\AbmArancel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\AbmArancel.Designer.cs">
+      <DependentUpon>AbmArancel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\AbmClinica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\AbmClinica.Designer.cs">
+      <DependentUpon>AbmClinica.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\AbmEspecialidad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\AbmEspecialidad.Designer.cs">
+      <DependentUpon>AbmEspecialidad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\AbmObraSocial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\AbmObraSocial.Designer.cs">
+      <DependentUpon>AbmObraSocial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\AbmPaciente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\AbmPaciente.Designer.cs">
+      <DependentUpon>AbmPaciente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\altaProfesional.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\altaProfesional.Designer.cs">
+      <DependentUpon>altaProfesional.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\altaUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\altaUsuario.Designer.cs">
+      <DependentUpon>altaUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\bajaUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\bajaUsuarios.Designer.cs">
+      <DependentUpon>bajaUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\modificarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\modificarUsuario.Designer.cs">
+      <DependentUpon>modificarUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\ProcesoTurnoXPaciente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\ProcesoTurnoXPaciente.Designer.cs">
+      <DependentUpon>ProcesoTurnoXPaciente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AccesoADatos\AdArancel.cs" />
+    <Compile Include="AccesoADatos\AdClinica.cs" />
+    <Compile Include="AccesoADatos\AdEspecialidad.cs" />
+    <Compile Include="AccesoADatos\AdObraSocial.cs" />
+    <Compile Include="AccesoADatos\AdOtros.cs" />
+    <Compile Include="AccesoADatos\AdPaciente.cs" />
+    <Compile Include="AccesoADatos\AdProfesional.cs" />
+    <Compile Include="AccesoADatos\AdTurnos.cs" />
+    <Compile Include="AccesoADatos\AdUsuarios.cs" />
+    <Compile Include="Conjunto de datos\DataSetEstadisticas.cs">
+      <DependentUpon>DataSetEstadisticas.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Conjunto de datos\DataSetEstadisticas.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetEstadisticas.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Entidades\Arancel.cs" />
+    <Compile Include="Entidades\Clinica.cs" />
+    <Compile Include="Entidades\Especialidad.cs" />
+    <Compile Include="Entidades\ObraSocial.cs" />
+    <Compile Include="Entidades\Paciente.cs" />
+    <Compile Include="Entidades\Profesional.cs" />
+    <Compile Include="Entidades\Usuario.cs" />
+    <Compile Include="loginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="loginForm.Designer.cs">
+      <DependentUpon>loginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="principal.Designer.cs">
+      <DependentUpon>principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Conjunto de datos\ReporteProfesionalesDataSet.cs">
+      <DependentUpon>ReporteProfesionalesDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Conjunto de datos\ReporteProfesionalesDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ReporteProfesionalesDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ReportViewer\ReporteEspecialidades.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportViewer\ReporteEspecialidades.Designer.cs">
+      <DependentUpon>ReporteEspecialidades.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportViewer\ReporteProfesionalesXPrecio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportViewer\ReporteProfesionalesXPrecio.Designer.cs">
+      <DependentUpon>ReporteProfesionalesXPrecio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportViewer\reportestadistica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportViewer\reportestadistica.Designer.cs">
+      <DependentUpon>reportestadistica.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportViewer\ReporteTurnosEnFechas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportViewer\ReporteTurnosEnFechas.Designer.cs">
+      <DependentUpon>ReporteTurnosEnFechas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportViewer\ReportPrecioXOSS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportViewer\ReportPrecioXOSS.Designer.cs">
+      <DependentUpon>ReportPrecioXOSS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportViewer\ReportViewerPacientesXProfesionales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportViewer\ReportViewerPacientesXProfesionales.Designer.cs">
+      <DependentUpon>ReportViewerPacientesXProfesionales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportViewer\ReportViewerPrecios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportViewer\ReportViewerPrecios.Designer.cs">
+      <DependentUpon>ReportViewerPrecios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportViewer\ReportViewerProfesionalesTurno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportViewer\ReportViewerProfesionalesTurno.Designer.cs">
+      <DependentUpon>ReportViewerProfesionalesTurno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportViewer\ReportViewerProfesionalesXPacientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportViewer\ReportViewerProfesionalesXPacientes.Designer.cs">
+      <DependentUpon>ReportViewerProfesionalesXPacientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportViewer\ReportViewerTurnosObraSocial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportViewer\ReportViewerTurnosObraSocial.Designer.cs">
+      <DependentUpon>ReportViewerTurnosObraSocial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportViewer\TurnoPacienteXEspecialidad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportViewer\TurnoPacienteXEspecialidad.Designer.cs">
+      <DependentUpon>TurnoPacienteXEspecialidad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportViewer\ReportViewerTurnosPorFechas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportViewer\ReportViewerTurnosPorFechas.Designer.cs">
+      <DependentUpon>ReportViewerTurnosPorFechas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <EmbeddedResource Include="ABM\AbmArancel.resx">
+      <DependentUpon>AbmArancel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\AbmClinica.resx">
+      <DependentUpon>AbmClinica.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\AbmEspecialidad.resx">
+      <DependentUpon>AbmEspecialidad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\AbmObraSocial.resx">
+      <DependentUpon>AbmObraSocial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\AbmPaciente.resx">
+      <DependentUpon>AbmPaciente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\altaProfesional.resx">
+      <DependentUpon>altaProfesional.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\altaUsuario.resx">
+      <DependentUpon>altaUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\bajaUsuarios.resx">
+      <DependentUpon>bajaUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\modificarUsuario.resx">
+      <DependentUpon>modificarUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\ProcesoTurnoXPaciente.resx">
+      <DependentUpon>ProcesoTurnoXPaciente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Estadistica 1.rdlc" />
+    <EmbeddedResource Include="EstadisticaObrasSociales.rdlc" />
+    <EmbeddedResource Include="EstadisticaPreciosProfesional.rdlc" />
+    <EmbeddedResource Include="EstadisticasEspecialidades.rdlc" />
+    <EmbeddedResource Include="ReporteFechaTurnos.rdlc" />
+    <EmbeddedResource Include="ReportePacientesYProfesionales.rdlc" />
+    <EmbeddedResource Include="ReporteObrasSociales.rdlc" />
+    <EmbeddedResource Include="ReporteEspecialidad.rdlc" />
+    <EmbeddedResource Include="ReportePrecios.rdlc" />
+    <EmbeddedResource Include="ReporteProfesionales.rdlc" />
+    <EmbeddedResource Include="InformesRV\ReporteProfesionalesXTurno.rdlc" />
+    <EmbeddedResource Include="loginForm.resx">
+      <DependentUpon>loginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="principal.resx">
+      <DependentUpon>principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReporteProfesionalesXPacientes.rdlc" />
+    <EmbeddedResource Include="ReportEspecialidades.rdlc" />
+    <EmbeddedResource Include="ReportEstadistico.rdlc" />
+    <EmbeddedResource Include="ReporteTurnosXFechas.rdlc" />
+    <EmbeddedResource Include="ReportViewer\ReporteEspecialidades.resx">
+      <DependentUpon>ReporteEspecialidades.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportViewer\ReporteProfesionalesXPrecio.resx">
+      <DependentUpon>ReporteProfesionalesXPrecio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportViewer\reportestadistica.resx">
+      <DependentUpon>reportestadistica.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportViewer\ReporteTurnosEnFechas.resx">
+      <DependentUpon>ReporteTurnosEnFechas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportViewer\ReportPrecioXOSS.resx">
+      <DependentUpon>ReportPrecioXOSS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportViewer\ReportViewerPacientesXProfesionales.resx">
+      <DependentUpon>ReportViewerPacientesXProfesionales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportViewer\ReportViewerPrecios.resx">
+      <DependentUpon>ReportViewerPrecios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportViewer\ReportViewerProfesionalesTurno.resx">
+      <DependentUpon>ReportViewerProfesionalesTurno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportViewer\ReportViewerProfesionalesXPacientes.resx">
+      <DependentUpon>ReportViewerProfesionalesXPacientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportViewer\ReportViewerTurnosPorFechas.resx">
+      <DependentUpon>ReportViewerTurnosPorFechas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportViewer\ReportViewerTurnosObraSocial.resx">
+      <DependentUpon>ReportViewerTurnosObraSocial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportViewer\TurnoPacienteXEspecialidad.resx">
+      <DependentUpon>TurnoPacienteXEspecialidad.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Conjunto de datos\DataSetEstadisticas.xsc">
+      <DependentUpon>DataSetEstadisticas.xsd</DependentUpon>
+    </None>
+    <None Include="Conjunto de datos\DataSetEstadisticas.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetEstadisticas.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Conjunto de datos\DataSetEstadisticas.xss">
+      <DependentUpon>DataSetEstadisticas.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Conjunto de datos\ReporteProfesionalesDataSet.xsc">
+      <DependentUpon>ReporteProfesionalesDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Conjunto de datos\ReporteProfesionalesDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ReporteProfesionalesDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Conjunto de datos\ReporteProfesionalesDataSet.xss">
+      <DependentUpon>ReporteProfesionalesDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\clinicalogin1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="System\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono_ABM1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono_sistema2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono_ABM2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono_estadisticas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono_procesos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono_salir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono_usuario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono_impresora.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono_usuario1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono_persona.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono_editarPersona.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono_eliminarPersona.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono_modificar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\principal_background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background_principal.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background_menu.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background_menuPrincipal.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono_profesional.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono_profesional1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono_clinica.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono_aranceles.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono_money.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono_especialidades.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono_oss.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background_Profesionales.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono_baja.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono_registrar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono_limpiar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background_Aranceles.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background_obraSocial.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background_especialidades.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background_especialidadesGrande.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background_Cinicas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background_especialidadesLucas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background_Registrar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono_buscar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background_proceso.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backgruound-reportes.png" />
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
